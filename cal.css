@@ -1,0 +1,68 @@
+#div2 {
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    width: 170px;
+}
+
+#sum {
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+
+#sum:hover {
+    background-color: rgb(90, 90, 190);
+}
+
+#sub {
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+
+#sub:hover {
+    background-color: rgb(237, 100, 198);
+}
+
+#mul {
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+
+#mul:hover {
+    background-color: rgb(100, 237, 100);
+}
+
+#div {
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+
+#div:hover {
+    background-color: rgb(225, 237, 100);
+}
+
+#div3 {
+    background-color: aqua;
+    padding-top: 15px;
+    padding-left: 15px;
+    width: 200px;
+    border: 3px solid;
+    border-radius: 20px;
+}
+
+#num1 {
+    border-radius: 10px;
+}
+
+#num2 {
+    border-radius: 10px;
+}
+
+#result {
+    border-radius: 10px;
+}
